@@ -769,7 +769,7 @@ Ingredients:
 
 Notes: Soften the onion 8 min, add garlic, ginger and spices for a minute,
 then the carrots, lentils and stock. Simmer 25 min and blend. Finish with
-lemon. Freeze in single lunch tubs. Good for using up the carrot sack.
+lemon. Freeze in single lunch tubs. Good for using up spare carrots.
 
 ## Rainbow Root Veggie Stew
 Servings: 4
