@@ -392,3 +392,338 @@ Notes: Soak cashews in boiling water 5 min, drain, then blend with the
 water, lemon, yeast, spices and cheese until smooth. Stir through cooked
 pasta. Best baked: top with the breadcrumbs, butter and paprika and bake
 at 175°C for 15 min, then grill until golden.
+
+<!-- Healthy additions: NutritionFacts.org (Dr Greger) recipes, converted to
+metric with UK ingredient swaps, plus a few everyday Daily Dozen basics. -->
+
+## Black Bean and Sweet Potato Stew
+Servings: 4
+Tags: dinner, freezer-friendly, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 1 red onion (chopped)
+- 2 clove garlic (minced)
+- 2 sweet potato (large, peeled and diced)
+- 1 red pepper (diced)
+- 1 green chilli (optional, deseeded)
+- 480 ml vegetable stock
+- 2 can black beans (drained)
+- 1 can chopped tomatoes
+- 2 tsp white miso
+- 1 mango (diced)
+- 15 g fresh coriander (chopped)
+- 300 g brown rice (to serve)
+
+Notes: Soften the onion in a splash of water (~7 min), add garlic, then
+sweet potato, pepper, chilli and stock. Simmer covered 25 min. Stir in the
+beans, tomatoes and the miso loosened in 60 ml hot water; simmer 5 min.
+Add mango for a minute, then coriander. Original uses purple sweet potatoes.
+
+## Pinto Bean and Sweet Potato Enchiladas
+Servings: 4
+Tags: dinner, sharing, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 60 ml vegetable stock
+- 1 red onion (chopped)
+- 1 red pepper (chopped)
+- 400 g passata
+- 1 tbsp chilli powder (mild, plus 1 tsp for the filling)
+- 1 tsp ground cumin
+- 0.5 tsp dried oregano
+- 0.5 tsp garlic powder
+- 0.5 tsp onion powder
+- 0.25 tsp black pepper
+- 1 tbsp white miso
+- 2 can pinto beans (drained; amount not given in the original)
+- 1 sweet potato (large, cooked and chopped)
+- 150 g sweetcorn (frozen)
+- 3 spring onion (minced)
+- 10 g fresh coriander (minced)
+- 8 wholemeal tortillas
+
+Notes: Sauce: soften onion and pepper in the stock, add passata, spices and
+miso, simmer 10 min and blend. Mix beans, sweet potato, corn, spring onion,
+coriander and 1 tsp chilli powder. Spread some sauce in a dish, roll the
+filling in the tortillas seam-side down, cover with the rest of the sauce
+and bake at 180°C for 30 min. Can be assembled ahead.
+
+## Quinoa and Vegetable Stew
+Servings: 6
+Tags: dinner, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 170 g quinoa (rinsed)
+- 1 carrot (chopped)
+- 1 sweet potato (chopped)
+- 1 courgette (chopped)
+- 0.5 broccoli (florets)
+- 100 g frozen peas
+- 0.75 tsp turmeric
+- 1.5 l water
+- 2 green chilli (sliced, deseeded; original uses 4)
+- 2 tsp cumin seeds
+- pinch asafoetida (optional)
+- 0.25 tsp fenugreek seeds
+- 1 can chopped tomatoes
+- 2 tsp ground coriander
+- 0.25 tsp chilli powder (original: cayenne)
+- 3 tbsp garam masala
+- 480 ml plant milk
+- 1 can chickpeas (drained; our addition for protein)
+- 1 tbsp fresh coriander
+
+Notes: Simmer quinoa, veg and turmeric in 1.4 l of the water for 30 min.
+Meanwhile toast the chillies, cumin, asafoetida and fenugreek in the rest
+of the water, add tomatoes and the ground spices for 5 min. Combine with
+the chickpeas, cook 5 min, add the milk and simmer covered 5-10 min.
+
+## Kale and Millet Stuffed Peppers
+Servings: 4
+Tags: dinner, sharing, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 200 g millet (rinsed)
+- 1 red onion (minced)
+- 200 g kale (stems removed, chopped)
+- 1 tbsp white miso
+- 2 tbsp sultanas (original: barberries)
+- 2 tbsp sunflower seeds
+- 1 tbsp ground flaxseed
+- 2 tbsp nutritional yeast
+- 0.25 tsp black pepper
+- 4 red pepper (halved and deseeded)
+
+Notes: Cook the millet in 480 ml boiling water ~25 min. Soften the onion
+and kale, then mix with the millet, the miso loosened in 60 ml hot water,
+sultanas, seeds, flax, yeast and pepper. Fill the pepper halves, put in a
+dish with 120 ml water, cover and bake at 180°C for 30-40 min. Can be
+filled the day before.
+
+## Singapore Noodles with Tempeh
+Servings: 4
+Tags: dinner, quick, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 225 g tempeh (diced)
+- 3 tbsp soy sauce (original: Umami Sauce)
+- 1 tsp rice vinegar (original: Umami Sauce)
+- 130 g peanut butter (smooth, unsalted)
+- 120 ml water
+- 1 lemon (2 tbsp juice)
+- 1.5 tsp curry powder
+- 0.25 tsp chilli powder (original: cayenne)
+- 200 g pak choi (shredded)
+- 1 red pepper (chopped)
+- 2 clove garlic (minced)
+- 4 spring onion (chopped)
+- 2 tsp fresh ginger (grated)
+- 225 g spaghetti (wholewheat; original: angel hair)
+- 150 g frozen peas
+- 35 g peanuts (unsalted, chopped)
+- 2 tbsp fresh coriander
+
+Notes: Steam the tempeh 10 min and toss with the soy sauce and vinegar.
+Blend the peanut butter, water, lemon juice and spices. Stir-fry the pak
+choi, pepper, garlic, spring onion and ginger ~8 min, add the sauce and
+tempeh. Cook the pasta, adding the peas for the last 4 min, then combine.
+Leave the chopped peanuts off our daughter's portion.
+
+## Chickpea Flour Vegetable Frittata
+Servings: 4
+Tags: breakfast, lunch, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 75 g mushrooms (sliced)
+- 0.5 red pepper (chopped)
+- 0.5 courgette (chopped)
+- 0.5 red onion (chopped)
+- 150 g cherry tomatoes (quartered)
+- 120 g gram flour
+- 240 ml water
+- 60 ml plant milk
+- 2 tbsp nutritional yeast
+- 0.25 lemon (1 tbsp juice)
+- 2 tsp white miso
+- 1 tsp baking powder
+- 0.5 tsp onion powder
+- 0.5 tsp dried basil
+- 0.25 tsp fennel seeds (ground)
+- 0.25 tsp turmeric
+- 0.25 tsp black pepper
+
+Notes: Soften the veg in a splash of water ~10 min, add the tomatoes.
+Blend everything else smooth, stir in the veg, pour into a lined 23 cm
+tin and bake at 200°C ~30 min until set. Cool 10 min. Keeps 5 days in
+the fridge, so it's good for lunchboxes.
+
+## Baked Carrot Cake Oatmeal
+Servings: 4
+Tags: breakfast, batch, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 90 g rolled oats
+- 2 tbsp chia seeds (ground)
+- 2 tbsp ground flaxseed
+- 1 carrot (large, grated)
+- 30 g walnuts (finely chopped)
+- 1.5 tsp ground cinnamon
+- 360 ml plant milk
+- 120 ml date syrup
+- 1 tsp vanilla extract
+
+Notes: Mix the dry ingredients and carrot, stir in the milk, date syrup and
+vanilla. Bake in a lined 20 cm tin at 190°C for ~30 min. Cool 10-15 min.
+Slices keep in the fridge for a few days and reheat well.
+
+## Roasted Chickpea and Kale Salad with Sweet Potato and Apple
+Servings: 4
+Tags: lunch, salad, sharing, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 1 can chickpeas (drained and dried)
+- 2 tbsp sultanas (original: barberries)
+- 2 sweet potato (diced)
+- 150 g kale (or rocket, chopped)
+- 60 ml balsamic vinegar
+- 1 tbsp almond butter
+- 1 tbsp white miso
+- 0.25 tsp black pepper
+- 1 apple (diced)
+- 1 celery
+- 25 g flaked almonds
+- 2 spring onion (minced)
+
+Notes: Roast the chickpeas at 200°C for 20-30 min until crunchy. Steam the
+sweet potato 12-15 min. Blend the vinegar, almond butter, miso and pepper
+into a dressing and toss the apple in it. Combine everything. Our
+daughter may find the crunchy chickpeas hard; mash or skip hers.
+
+## Purple Cabbage Slaw with Lime Dressing
+Servings: 4
+Tags: side, greger
+Source: nutritionfacts.org
+
+Ingredients:
+- 350 g red cabbage (shredded)
+- 1 carrot (grated)
+- 2 spring onion (minced)
+- 2 tbsp fresh coriander
+- 2 lime (60 ml juice)
+- 1 tbsp soy sauce (original: Umami Sauce)
+- 2 clove garlic (minced)
+- 1 tsp date syrup
+- 1 tsp white miso
+- 1 green chilli (optional)
+
+Notes: Toss the veg, whisk the dressing with 1 tbsp water and mix in.
+Rest 15-20 min. Keeps a couple of days in the fridge.
+
+## Chickpea and Spinach Curry
+Servings: 4
+Tags: dinner, freezer-friendly
+
+Ingredients:
+- 1 onion (chopped)
+- 3 clove garlic (minced)
+- 3 cm fresh ginger (grated)
+- 1 tsp cumin seeds
+- 2 tsp ground coriander
+- 1 tsp turmeric
+- 2 tsp garam masala
+- 0.5 tsp chilli powder (optional)
+- 1 can chopped tomatoes
+- 2 can chickpeas (drained)
+- 250 ml water
+- 200 g frozen spinach
+- 0.5 lemon (juiced)
+- 300 g brown rice (to serve)
+
+Notes: Soften the onion in a splash of water, add garlic, ginger and
+spices for a minute, then tomatoes, chickpeas and water. Simmer 15 min,
+stir in the spinach until hot, finish with lemon.
+
+## Tuscan White Bean and Kale Soup
+Servings: 6
+Tags: dinner, lunch, freezer-friendly
+
+Ingredients:
+- 1 tbsp olive oil
+- 1 onion (diced)
+- 2 carrot (diced)
+- 2 celery (diced)
+- 3 clove garlic (minced)
+- 1 tsp dried thyme
+- 1 tsp dried oregano
+- 1 can chopped tomatoes
+- 2 can cannellini beans (drained)
+- 1.5 l vegetable stock
+- 200 g kale (or cavolo nero, shredded)
+- 100 g pasta (small shapes, wholewheat)
+- 0.5 lemon (juiced)
+- 0.25 tsp black pepper
+
+Notes: Soften onion, carrot and celery 10 min, add garlic and herbs, then
+tomatoes, beans and stock. Mash a ladle of the beans to thicken. Simmer
+15 min, add pasta and kale for the last 10. Finish with lemon. Freeze
+without the pasta if making ahead.
+
+## Berry and Flax Porridge
+Servings: 1
+Tags: breakfast, daily dozen
+
+Ingredients:
+- 50 g rolled oats
+- 200 ml plant milk
+- 80 g frozen berries
+- 1 tbsp ground flaxseed
+- 1 tbsp walnuts (chopped; ground for our daughter)
+
+Notes: Cook the oats in the milk, stir in the berries to warm through and
+top with flax and walnuts. Covers berries, flax, nuts and a whole grain.
+
+## Garlicky Greens
+Servings: 4
+Tags: side, daily dozen
+
+Ingredients:
+- 300 g kale (or cavolo nero, spring greens or broccoli)
+- 1 clove garlic (sliced)
+- 1 tsp olive oil
+- 0.5 lemon (juiced)
+
+Notes: Steam or wilt the greens with the garlic and oil for 3-5 min,
+finish with lemon. Serve alongside any dinner that's light on greens.
+
+## Quick Hummus
+Servings: 6
+Tags: snack, lunch, daily dozen
+
+Ingredients:
+- 1 can chickpeas (drained)
+- 2 tbsp tahini
+- 0.5 lemon (juiced)
+- 1 clove garlic
+- 1 tsp ground cumin
+- 3 tbsp water
+
+Notes: Blend smooth. With carrot and cucumber sticks it's an easy third
+bean serving for the day. Keeps 4-5 days in the fridge.
+
+## Daily Fruit
+Servings: 3
+Tags: snack, daily dozen
+
+Ingredients:
+- 8 seasonal fruit (apples, pears, satsumas, bananas)
+
+Notes: One day's fruit for the household: three pieces each for the
+adults and a couple for our daughter.
