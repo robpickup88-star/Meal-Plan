@@ -17,6 +17,26 @@ plan to cook, you work out:
 3. A **weekly fresh list**: perishables to buy at the shop or put on an
    occasional Ocado top-up, split by the week I need them.
 
+## Our household
+
+- **Who eats:** two adults and our daughter, a toddler (17 months in
+  October 2026).
+- **Diet:** mostly vegan. Our daughter also has some vegetarian foods for
+  nutrition, such as eggs and dairy milk. Keep shared meals vegan and list
+  her egg and dairy as separate items, not as part of the recipes.
+- **Healthy eating:** we loosely follow Michael Greger's principles (whole
+  foods, plenty of beans, greens, whole grains, fruit, nuts and seeds, not
+  much added oil, salt or sugar). We're not strict, so treat this as a
+  guide, not a rule.
+- **Cooking for a toddler:** keep added salt low in shared meals so we can
+  season our own portions at the table. No whole nuts (use nut butters or
+  ground nuts) and no rice milk for her.
+- **Saturday guests:** we want to cook for 2–3 friends at least once a week
+  on Saturday, so plan that meal for 4–5 adults plus our daughter.
+- **Leftovers and batch cooking:** we'd rather not cook every night. Prefer
+  bulk meals that cover more than one dinner, and plan for healthy leftovers
+  for our lunches. Batch cooking is a preference, not a requirement.
+
 ## Knowledge files
 
 - **recipes.md**: my recipe book. Each recipe has a name, servings, and lines
