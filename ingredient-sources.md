@@ -10,6 +10,8 @@ buy each ingredient.
   (e.g. a 5 kg bag instead of 6×1 kg) as long as it's used up within this time.
 - **Infinity Foods minimum order:** _(fill in, e.g. £250 ex VAT)_
 - **Ocado minimum order:** _(fill in, e.g. £40)_
+- **Bulk fresh supplier:** _(fill in: who sells you sacks/boxes, and their
+  sack sizes, e.g. onions 10 kg, carrots 10 kg, potatoes 12.5 kg)_
 
 ## Sources
 
@@ -17,6 +19,7 @@ buy each ingredient.
 |------------|-------------------------|-----------------|
 | `infinity` | Monthly bulk order      | Dry organic stock: grains, pulses, flours, nuts, seeds, dried fruit, tins, jars, oils, spices. Bought by the case. |
 | `ocado`    | Monthly order           | Things that keep for a month: frozen food, meat and fish to freeze, long-life milk, hard cheese, cleaning items Infinity doesn't stock. |
+| `bulk`     | Monthly fresh bulk      | Hardy veg and fruit that keep 3-4 weeks, bought by the sack or box at the start of the month: onions, garlic, carrots, potatoes, sweet potatoes, red cabbage, lemons, apples, satsumas. Cheaper per kg than buying weekly. |
 | `fresh`    | Weekly top-up           | Perishables bought in the week they're used: fresh veg and fruit, fresh milk, bread, yoghurt, soft cheese. Buy at the shop or add to an occasional Ocado top-up order. |
 
 ## Ingredients
@@ -123,12 +126,18 @@ you to confirm it.
 | wholemeal tortillas       | `ocado`    |               |                                                      | Bakery       |
 | baking powder             | `ocado`    |               |                                                      | Pantry       |
 | vanilla extract           | `ocado`    |               |                                                      | Pantry       |
-| onion                     | `fresh`    |               |                                                      | Produce      |
-| red onion                 | `fresh`    |               |                                                      | Produce      |
-| garlic                    | `fresh`    |               |                                                      | Produce      |
-| fresh ginger              | `fresh`    |               |                                                      | Produce      |
-| carrot                    | `fresh`    |               |                                                      | Produce      |
-| potatoes                  | `fresh`    |               |                                                      | Produce      |
+| frozen broccoli           | `ocado`    |               |                                                      | Frozen       |
+| onion                     | `bulk`     |               | sack; cool, dark, airy place                         | Produce      |
+| red onion                 | `bulk`     |               | net; cool, dark, airy place                          | Produce      |
+| garlic                    | `bulk`     |               | bulbs; cool and dry                                  | Produce      |
+| fresh ginger              | `bulk`     |               | freeze it and grate from frozen                      | Produce      |
+| carrot                    | `bulk`     |               | sack; fridge drawer or cold garage                   | Produce      |
+| potatoes                  | `bulk`     |               | sack; cool and dark, not the fridge                  | Produce      |
+| red cabbage               | `bulk`     |               | whole heads; fridge, 3-4 weeks                       | Produce      |
+| lemon                     | `bulk`     |               | fridge, 3-4 weeks                                    | Produce      |
+| sweet potato              | `bulk`     |               | box; cool room, not the fridge                       | Produce      |
+| apple                     | `bulk`     |               | box; fridge, 4+ weeks                                | Produce      |
+| satsuma                   | `bulk`     |               | box; fridge, 2-3 weeks                               | Produce      |
 | parsnip                   | `fresh`    |               |                                                      | Produce      |
 | leek                      | `fresh`    |               |                                                      | Produce      |
 | fennel                    | `fresh`    |               |                                                      | Produce      |
@@ -136,7 +145,6 @@ you to confirm it.
 | courgette                 | `fresh`    |               |                                                      | Produce      |
 | cauliflower               | `fresh`    |               |                                                      | Produce      |
 | brussels sprouts          | `fresh`    |               |                                                      | Produce      |
-| red cabbage               | `fresh`    |               |                                                      | Produce      |
 | mushrooms                 | `fresh`    |               |                                                      | Produce      |
 | red pepper                | `fresh`    |               |                                                      | Produce      |
 | tomato                    | `fresh`    |               |                                                      | Produce      |
@@ -144,7 +152,6 @@ you to confirm it.
 | avocado                   | `fresh`    |               |                                                      | Produce      |
 | green chilli              | `fresh`    |               |                                                      | Produce      |
 | spring onion              | `fresh`    |               |                                                      | Produce      |
-| lemon                     | `fresh`    |               |                                                      | Produce      |
 | lime                      | `fresh`    |               |                                                      | Produce      |
 | pomegranate               | `fresh`    |               |                                                      | Produce      |
 | fresh coriander           | `fresh`    |               |                                                      | Produce      |
@@ -152,20 +159,19 @@ you to confirm it.
 | fresh rosemary            | `fresh`    |               |                                                      | Produce      |
 | vegan crème fraîche       | `fresh`    |               |                                                      | Chilled      |
 | vegan sour cream          | `fresh`    |               |                                                      | Chilled      |
-| sweet potato              | `fresh`    |               |                                                      | Produce      |
 | kale                      | `fresh`    |               | or cavolo nero                                       | Produce      |
 | broccoli                  | `fresh`    |               |                                                      | Produce      |
 | pak choi                  | `fresh`    |               |                                                      | Produce      |
 | celery                    | `fresh`    |               |                                                      | Produce      |
 | cherry tomatoes           | `fresh`    |               |                                                      | Produce      |
-| apple                     | `fresh`    |               |                                                      | Produce      |
 | mango                     | `fresh`    |               |                                                      | Produce      |
-| seasonal fruit            | `fresh`    |               | apples, pears, satsumas, bananas                     | Produce      |
+| banana                    | `fresh`    |               | or other seasonal fruit                              | Produce      |
 | milk                      | `fresh`    |               | dairy milk, for our daughter                         | Dairy & Eggs |
 | eggs                      | `fresh`    |               | for our daughter                                     | Dairy & Eggs |
 
-Onions and garlic keep for a few weeks, so you could move them to `ocado` if
-you'd rather get them in the monthly order.
+Only move something to `bulk` if it keeps for the whole month. Leafy greens,
+herbs, peppers, aubergines, courgettes, tomatoes, mushrooms and avocados stay
+`fresh`.
 
 ## Always on hand
 

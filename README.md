@@ -6,8 +6,12 @@ Tell Claude what you plan to cook this month, and it works out:
   case, with product codes, prices and VAT.
 - **🛒 Ocado monthly order**: things that keep for a month (frozen, meat to
   freeze, etc.).
+- **🧺 Bulk fresh order**: hardy veg and fruit (onions, carrots, sweet
+  potatoes, apples…) by the sack or box, once a month.
 - **🥬 Weekly fresh lists**: perishables for each week, to buy at the shop or
   put on an occasional Ocado top-up.
+- **🧊 Freezer plan**: what goes into the freezer each week and what comes
+  out, so there's always a stock of family meals and lunch tubs.
 - **📋 Updated stock list**: what you'll have left over, so it isn't bought
   twice next month.
 
@@ -21,7 +25,7 @@ ingredient.
 |------|---------------|---------------|
 | `project-instructions.md` | Tells Claude how to build the orders | Project → **Custom instructions** |
 | `recipes.md` | Your recipe book | Project → **Knowledge** |
-| `ingredient-sources.md` | Settings, plus Infinity / Ocado / fresh for each ingredient and the Infinity product codes you buy | Project → **Knowledge** |
+| `ingredient-sources.md` | Settings, plus Infinity / Ocado / bulk / fresh for each ingredient and the Infinity product codes you buy | Project → **Knowledge** |
 | `stock.md` | What's already in the cupboard and freezer | Project → **Knowledge** |
 | `infinity-foods-prices.csv` | Infinity Foods price list, trimmed down for Claude | Project → **Knowledge** |
 | `price-lists/` | The original Infinity price lists | Keep in the repo only |
@@ -37,7 +41,7 @@ ingredient.
    - Have recipes somewhere else? Paste them into a chat in the Project and say
      *"Add these recipes"*. Claude will reformat them for `recipes.md`.
 4. In `ingredient-sources.md`, fill in the settings (minimum order amounts) and
-   mark each ingredient `infinity`, `ocado` or `fresh`. For Infinity items, add
+   mark each ingredient `infinity`, `ocado`, `bulk` or `fresh`. For Infinity items, add
    the product code you buy. If you don't know it, leave it blank and Claude
    will suggest one.
 5. Fill in `stock.md` with what you already have.

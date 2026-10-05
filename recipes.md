@@ -275,7 +275,8 @@ parsnip with oil, 1 tsp cumin seeds and a little salt at 200°C for
 25-30 min. Fry the mustard, fenugreek, cumin seeds and asafoetida until
 they pop, add onion, ginger, chillies, then tomatoes and chilli powder.
 Stir it all into the dal with the roast veg; top with coriander and
-almonds.
+almonds. Sack-veg swap: roast 3 carrots and 1 sweet potato instead of the
+fennel and parsnip.
 
 ## Smoky Lentil Tacos
 Servings: 4
@@ -419,6 +420,7 @@ Notes: Soften the onion in a splash of water (~7 min), add garlic, then
 sweet potato, pepper, chilli and stock. Simmer covered 25 min. Stir in the
 beans, tomatoes and the miso loosened in 60 ml hot water; simmer 5 min.
 Add mango for a minute, then coriander. Original uses purple sweet potatoes.
+To freeze, leave out the mango and coriander and add them when reheating.
 
 ## Pinto Bean and Sweet Potato Enchiladas
 Servings: 4
@@ -702,6 +704,7 @@ Ingredients:
 
 Notes: Steam or wilt the greens with the garlic and oil for 3-5 min,
 finish with lemon. Serve alongside any dinner that's light on greens.
+Frozen spinach or broccoli works too and is cheaper in bulk.
 
 ## Quick Hummus
 Servings: 6
@@ -723,7 +726,45 @@ Servings: 3
 Tags: snack, daily dozen
 
 Ingredients:
-- 8 seasonal fruit (apples, pears, satsumas, bananas)
+- 3 apple (or pear)
+- 2 satsuma
+- 3 banana (or other seasonal fruit)
 
 Notes: One day's fruit for the household: three pieces each for the
-adults and a couple for our daughter.
+adults and a couple for our daughter. Apples, pears and satsumas keep for
+weeks in the fridge, so buy them by the box; bananas weekly.
+
+## Garlicky Greens (frozen)
+Servings: 4
+Tags: side, daily dozen, freezer
+
+Ingredients:
+- 400 g frozen broccoli (or frozen spinach)
+- 1 clove garlic (sliced)
+- 1 tsp olive oil
+- 0.5 lemon (juiced)
+
+Notes: Steam the broccoli from frozen (5-6 min) or wilt the spinach, toss
+with garlic softened in the oil, finish with lemon.
+
+## Carrot and Red Lentil Soup
+Servings: 8
+Tags: lunch, freezer-friendly, batch
+
+Ingredients:
+- 1 tbsp olive oil
+- 2 onion (chopped)
+- 3 clove garlic (chopped)
+- 3 cm fresh ginger (grated)
+- 2 tsp ground cumin
+- 1 tsp ground coriander
+- 0.5 tsp chilli flakes (optional)
+- 1 kg carrot (chopped)
+- 250 g red lentils (rinsed)
+- 2 l vegetable stock
+- 1 lemon (juiced)
+
+Notes: Soften the onion 8 min, add garlic, ginger and spices for a minute,
+then the carrots, lentils and stock. Simmer 25 min and blend. Finish with
+lemon. Freeze in single lunch tubs. Good for using up the carrot sack.
+

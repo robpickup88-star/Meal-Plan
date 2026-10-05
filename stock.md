@@ -17,3 +17,12 @@ Last updated: _(date)_
 | chia seeds       | 0 kg    | Cupboard |
 | kidney beans     | 0 tins  | Cupboard |
 | chopped tomatoes | 0 tins  | Cupboard |
+
+## Freezer
+
+One family bag is a meal for all three of us (about 2.5 portions). A lunch
+tub is one adult portion. Freeze sauces without pasta or garnish.
+
+| Meal                 | Family bags | Lunch tubs | Frozen on |
+|----------------------|-------------|------------|-----------|
+| _(none yet)_         | 0           | 0          |           |
