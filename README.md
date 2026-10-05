@@ -6,10 +6,9 @@ Tell Claude what you plan to cook this month, and it works out:
   case, with product codes, prices and VAT.
 - **🛒 Ocado monthly order**: things that keep for a month (frozen, meat to
   freeze, etc.).
-- **🧺 Bulk fresh order**: hardy veg and fruit (onions, carrots, sweet
-  potatoes, apples…) by the sack or box, once a month.
-- **🥬 Weekly fresh lists**: perishables for each week, to buy at the shop or
-  put on an occasional Ocado top-up.
+- **🥬 Weekly fresh lists**: the veg, fruit and herbs to buy from local shops
+  each week, split into what's in season in the UK and what's imported (with
+  seasonal swaps).
 - **🧊 Freezer plan**: what goes into the freezer each week and what comes
   out, so there's always a stock of family meals and lunch tubs.
 - **📋 Updated stock list**: what you'll have left over, so it isn't bought
@@ -25,7 +24,8 @@ ingredient.
 |------|---------------|---------------|
 | `project-instructions.md` | Tells Claude how to build the orders | Project → **Custom instructions** |
 | `recipes.md` | Your recipe book | Project → **Knowledge** |
-| `ingredient-sources.md` | Settings, plus Infinity / Ocado / bulk / fresh for each ingredient and the Infinity product codes you buy | Project → **Knowledge** |
+| `ingredient-sources.md` | Settings, plus Infinity / Ocado / fresh for each ingredient and the Infinity product codes you buy | Project → **Knowledge** |
+| `seasonal-produce.md` | UK fruit and veg in season each month | Project → **Knowledge** |
 | `stock.md` | What's already in the cupboard and freezer | Project → **Knowledge** |
 | `infinity-foods-prices.csv` | Infinity Foods price list, trimmed down for Claude | Project → **Knowledge** |
 | `price-lists/` | The original Infinity price lists | Keep in the repo only |
@@ -41,15 +41,15 @@ ingredient.
    - Have recipes somewhere else? Paste them into a chat in the Project and say
      *"Add these recipes"*. Claude will reformat them for `recipes.md`.
 4. In `ingredient-sources.md`, fill in the settings (minimum order amounts) and
-   mark each ingredient `infinity`, `ocado`, `bulk` or `fresh`. For Infinity items, add
+   mark each ingredient `infinity`, `ocado` or `fresh`. For Infinity items, add
    the product code you buy. If you don't know it, leave it blank and Claude
    will suggest one.
 5. Fill in `stock.md` with what you already have.
-6. Upload `recipes.md`, `ingredient-sources.md`, `stock.md` and
-   `infinity-foods-prices.csv` to the Project's **Knowledge**.
+6. Upload `recipes.md`, `ingredient-sources.md`, `stock.md`,
+   `seasonal-produce.md` and `infinity-foods-prices.csv` to the Project's **Knowledge**.
 
 You can connect this GitHub repo to the Project instead of uploading the files
-(Knowledge → **Add content → GitHub**). Select those four files, then press
+(Knowledge → **Add content → GitHub**). Select those five files, then press
 sync after you change them.
 
 ## Monthly routine

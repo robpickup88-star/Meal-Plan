@@ -275,8 +275,7 @@ parsnip with oil, 1 tsp cumin seeds and a little salt at 200°C for
 25-30 min. Fry the mustard, fenugreek, cumin seeds and asafoetida until
 they pop, add onion, ginger, chillies, then tomatoes and chilli powder.
 Stir it all into the dal with the roast veg; top with coriander and
-almonds. Sack-veg swap: roast 3 carrots and 1 sweet potato instead of the
-fennel and parsnip.
+almonds. Out of season? Swap the fennel for 2 carrots or a small celeriac.
 
 ## Smoky Lentil Tacos
 Servings: 4
@@ -397,7 +396,7 @@ at 175°C for 15 min, then grill until golden.
 <!-- Healthy additions: NutritionFacts.org (Dr Greger) recipes, converted to
 metric with UK ingredient swaps, plus a few everyday Daily Dozen basics. -->
 
-## Black Bean and Sweet Potato Stew
+## Black Bean and Squash Stew
 Servings: 4
 Tags: dinner, freezer-friendly, greger
 Source: nutritionfacts.org
@@ -405,24 +404,24 @@ Source: nutritionfacts.org
 Ingredients:
 - 1 red onion (chopped)
 - 2 clove garlic (minced)
-- 2 sweet potato (large, peeled and diced)
-- 1 red pepper (diced)
+- 800 g butternut squash (peeled and diced; or 2 large sweet potatoes)
+- 1 red pepper (diced; optional out of season)
 - 1 green chilli (optional, deseeded)
 - 480 ml vegetable stock
 - 2 can black beans (drained)
 - 1 can chopped tomatoes
 - 2 tsp white miso
-- 1 mango (diced)
+- 1 mango (diced; or a diced apple)
 - 15 g fresh coriander (chopped)
 - 300 g brown rice (to serve)
 
 Notes: Soften the onion in a splash of water (~7 min), add garlic, then
-sweet potato, pepper, chilli and stock. Simmer covered 25 min. Stir in the
+squash, pepper, chilli and stock. Simmer covered 25 min. Stir in the
 beans, tomatoes and the miso loosened in 60 ml hot water; simmer 5 min.
-Add mango for a minute, then coriander. Original uses purple sweet potatoes.
+Add mango for a minute, then coriander. Original uses purple sweet potatoes; squash suits autumn and winter.
 To freeze, leave out the mango and coriander and add them when reheating.
 
-## Pinto Bean and Sweet Potato Enchiladas
+## Pinto Bean and Squash Enchiladas
 Servings: 4
 Tags: dinner, sharing, greger
 Source: nutritionfacts.org
@@ -440,14 +439,15 @@ Ingredients:
 - 0.25 tsp black pepper
 - 1 tbsp white miso
 - 2 can pinto beans (drained; amount not given in the original)
-- 1 sweet potato (large, cooked and chopped)
+- 500 g butternut squash (roasted and chopped; or 1 large sweet potato)
 - 150 g sweetcorn (frozen)
 - 3 spring onion (minced)
 - 10 g fresh coriander (minced)
 - 8 wholemeal tortillas
 
-Notes: Sauce: soften onion and pepper in the stock, add passata, spices and
-miso, simmer 10 min and blend. Mix beans, sweet potato, corn, spring onion,
+Notes: Roast the squash cubes at 200°C for 25 min. Sauce: soften onion
+and pepper in the stock, add passata, spices and
+miso, simmer 10 min and blend. Mix beans, squash, corn, spring onion,
 coriander and 1 tsp chilli powder. Spread some sauce in a dish, roll the
 filling in the tortillas seam-side down, cover with the rest of the sauce
 and bake at 180°C for 30 min. Can be assembled ahead.
@@ -460,9 +460,9 @@ Source: nutritionfacts.org
 Ingredients:
 - 170 g quinoa (rinsed)
 - 1 carrot (chopped)
-- 1 sweet potato (chopped)
-- 1 courgette (chopped)
-- 0.5 broccoli (florets)
+- 300 g butternut squash (chopped)
+- 0.5 cauliflower (florets)
+- 100 g kale (shredded)
 - 100 g frozen peas
 - 0.75 tsp turmeric
 - 1.5 l water
@@ -478,7 +478,9 @@ Ingredients:
 - 1 can chickpeas (drained; our addition for protein)
 - 1 tbsp fresh coriander
 
-Notes: Simmer quinoa, veg and turmeric in 1.4 l of the water for 30 min.
+Notes: Any mixed veg works: the original uses carrot, sweet potato,
+courgette, broccoli and peas, so use those in summer. Simmer quinoa, veg
+(kale for the last 5 min) and turmeric in 1.4 l of the water for 30 min.
 Meanwhile toast the chillies, cumin, asafoetida and fenugreek in the rest
 of the water, add tomatoes and the ground spices for 5 min. Combine with
 the chickpeas, cook 5 min, add the milk and simmer covered 5-10 min.
@@ -520,8 +522,8 @@ Ingredients:
 - 1 lemon (2 tbsp juice)
 - 1.5 tsp curry powder
 - 0.25 tsp chilli powder (original: cayenne)
-- 200 g pak choi (shredded)
-- 1 red pepper (chopped)
+- 200 g pak choi (shredded; or spring greens or Savoy cabbage)
+- 1 carrot (cut into matchsticks; or a red pepper in summer)
 - 2 clove garlic (minced)
 - 4 spring onion (chopped)
 - 2 tsp fresh ginger (grated)
@@ -532,7 +534,7 @@ Ingredients:
 
 Notes: Steam the tempeh 10 min and toss with the soy sauce and vinegar.
 Blend the peanut butter, water, lemon juice and spices. Stir-fry the pak
-choi, pepper, garlic, spring onion and ginger ~8 min, add the sauce and
+choi, carrot, garlic, spring onion and ginger ~8 min, add the sauce and
 tempeh. Cook the pasta, adding the peas for the last 4 min, then combine.
 Leave the chopped peanuts off our daughter's portion.
 
@@ -542,11 +544,10 @@ Tags: breakfast, lunch, greger
 Source: nutritionfacts.org
 
 Ingredients:
-- 75 g mushrooms (sliced)
-- 0.5 red pepper (chopped)
-- 0.5 courgette (chopped)
+- 150 g mushrooms (sliced)
+- 1 leek (sliced)
+- 100 g swiss chard (or spinach, chopped)
 - 0.5 red onion (chopped)
-- 150 g cherry tomatoes (quartered)
 - 120 g gram flour
 - 240 ml water
 - 60 ml plant milk
@@ -560,7 +561,9 @@ Ingredients:
 - 0.25 tsp turmeric
 - 0.25 tsp black pepper
 
-Notes: Soften the veg in a splash of water ~10 min, add the tomatoes.
+Notes: Soften the mushrooms, leek and onion in a splash of water ~10 min,
+then wilt in the chard. Summer version (the original): red pepper,
+courgette and cherry tomatoes.
 Blend everything else smooth, stir in the veg, pour into a lined 23 cm
 tin and bake at 200°C ~30 min until set. Cool 10 min. Keeps 5 days in
 the fridge, so it's good for lunchboxes.
@@ -585,7 +588,7 @@ Notes: Mix the dry ingredients and carrot, stir in the milk, date syrup and
 vanilla. Bake in a lined 20 cm tin at 190°C for ~30 min. Cool 10-15 min.
 Slices keep in the fridge for a few days and reheat well.
 
-## Roasted Chickpea and Kale Salad with Sweet Potato and Apple
+## Roasted Chickpea and Kale Salad with Beetroot and Apple
 Servings: 4
 Tags: lunch, salad, sharing, greger
 Source: nutritionfacts.org
@@ -593,7 +596,7 @@ Source: nutritionfacts.org
 Ingredients:
 - 1 can chickpeas (drained and dried)
 - 2 tbsp sultanas (original: barberries)
-- 2 sweet potato (diced)
+- 500 g beetroot (diced; or sweet potato)
 - 150 g kale (or rocket, chopped)
 - 60 ml balsamic vinegar
 - 1 tbsp almond butter
@@ -605,7 +608,7 @@ Ingredients:
 - 2 spring onion (minced)
 
 Notes: Roast the chickpeas at 200°C for 20-30 min until crunchy. Steam the
-sweet potato 12-15 min. Blend the vinegar, almond butter, miso and pepper
+beetroot 15-20 min (or sweet potato 12-15 min). Blend the vinegar, almond butter, miso and pepper
 into a dressing and toss the apple in it. Combine everything. Our
 daughter may find the crunchy chickpeas hard; mash or skip hers.
 
@@ -767,4 +770,50 @@ Ingredients:
 Notes: Soften the onion 8 min, add garlic, ginger and spices for a minute,
 then the carrots, lentils and stock. Simmer 25 min and blend. Finish with
 lemon. Freeze in single lunch tubs. Good for using up the carrot sack.
+
+## Rainbow Root Veggie Stew
+Servings: 4
+Tags: dinner, freezer-friendly, greger, autumn
+Source: nutritionfacts.org
+
+Ingredients:
+- 1 onion (diced)
+- 2 clove garlic (minced)
+- 1.1 kg swede (cubed; or squash or sweet potato)
+- 400 g beetroot (cubed)
+- 4 carrot (thinly sliced)
+- 4 celery (thinly sliced)
+- 150 g kale (torn)
+- 200 g red lentils (rinsed)
+- 1 l vegetable stock
+- 1 tsp curry powder (optional)
+- 2 tbsp nutritional yeast (optional, to serve)
+
+Notes: Put everything except the kale in a big pan, making sure the
+lentils are under the liquid. Simmer until the veg are tender (about
+30 min), adding the kale for the last 5. Season with pepper and yeast.
+Tastes even better the next day. Original uses sweet potatoes; swede or
+squash suit autumn and winter.
+
+## Kale and Millet Stuffed Squash
+Servings: 4
+Tags: dinner, sharing, greger, autumn
+
+Ingredients:
+- 2 butternut squash (halved lengthways, seeds out)
+- 200 g millet (rinsed)
+- 1 red onion (minced)
+- 200 g kale (stems removed, chopped)
+- 1 tbsp white miso
+- 2 tbsp sultanas
+- 2 tbsp sunflower seeds
+- 1 tbsp ground flaxseed
+- 2 tbsp nutritional yeast
+- 0.25 tsp black pepper
+
+Notes: The autumn version of Kale and Millet Stuffed Peppers
+(nutritionfacts.org). Roast the squash halves cut-side down at 200°C for
+35-40 min until nearly tender. Make the millet filling as in the peppers
+recipe, pile it into the hollows and bake 15-20 min more. Half a squash
+each for adults.
 
