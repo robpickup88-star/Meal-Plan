@@ -25,27 +25,112 @@ buy each ingredient.
 blank and Claude will pick the best-value product from the price list and ask
 you to confirm it.
 
-| Ingredient        | Source   | Infinity code | Product / pack            | Aisle        |
-|-------------------|----------|---------------|---------------------------|--------------|
-| rice              | infinity | 10513         | Brown Basmati Rice 5kg    | Pantry       |
-| rolled oats       | infinity | 20530         | Rolled Oatflakes 5kg      | Pantry       |
-| chia seeds        | infinity | 90528         | Chia Seeds 2kg            | Pantry       |
-| kidney beans      | infinity | 390150        | Biona tins 6x400g         | Pantry       |
-| chopped tomatoes  | infinity | 392130        | Mr Organic tins 12x400g   | Pantry       |
-| soy sauce         | infinity | 480523        | Clearspring Tamari 6x250ml| Pantry       |
-| vegetable oil     | infinity | 200529        | Clearspring Sunflower 2l  | Pantry       |
-| honey             | infinity | 313105        | Essential Honey 3.18kg    | Pantry       |
-| chili powder      | infinity | 9210          | Chilli Powder 6x25g       | Spices       |
-| cumin             | infinity | 9216          | Ground Cumin 6x25g        | Spices       |
-| chicken breast    | ocado    |               | freeze in portions        | Meat & Fish  |
-| ground beef       | ocado    |               | freeze in portions        | Meat & Fish  |
-| frozen berries    | ocado    |               |                           | Frozen       |
-| onion             | fresh    |               |                           | Produce      |
-| garlic            | fresh    |               |                           | Produce      |
-| bell pepper       | fresh    |               |                           | Produce      |
-| broccoli          | fresh    |               |                           | Produce      |
-| milk              | fresh    |               |                           | Dairy & Eggs |
-| eggs              | fresh    |               |                           | Dairy & Eggs |
+| Ingredient                | Source     | Infinity code | Product / pack                           | Aisle        |
+|---------------------------|------------|---------------|------------------------------------------|--------------|
+| brown rice                | `infinity` | 10513         | Brown Basmati Rice 5kg                   | Pantry       |
+| rolled oats               | `infinity` | 20530         | Rolled Oatflakes 5kg                     | Pantry       |
+| chia seeds                | `infinity` | 90528         | Chia Seeds 2kg                           | Pantry       |
+| green lentils             | `infinity` |               |                                          | Pantry       |
+| red lentils               | `infinity` |               |                                          | Pantry       |
+| kidney beans              | `infinity` | 390150        | Biona tins 6x400g                        | Pantry       |
+| cannellini beans          | `infinity` |               | tins                                     | Pantry       |
+| chopped tomatoes          | `infinity` | 392130        | Mr Organic tins 12x400g                  | Pantry       |
+| passata                   | `infinity` |               |                                          | Pantry       |
+| tomato purée              | `infinity` |               |                                          | Pantry       |
+| sun-dried tomatoes        | `infinity` |               |                                          | Pantry       |
+| soy sauce                 | `infinity` | 480523        | Clearspring Tamari 6x250ml               | Pantry       |
+| vegetable stock           | `infinity` |               | bouillon powder (about 1 tsp per 250 ml) | Pantry       |
+| white miso                | `infinity` |               |                                          | Pantry       |
+| tahini                    | `infinity` |               |                                          | Pantry       |
+| pomegranate molasses      | `infinity` |               |                                          | Pantry       |
+| salsa                     | `infinity` |               | jar                                      | Pantry       |
+| vegan mayo                | `infinity` |               |                                          | Pantry       |
+| maple syrup               | `infinity` |               |                                          | Pantry       |
+| balsamic vinegar          | `infinity` |               |                                          | Pantry       |
+| rice vinegar              | `infinity` |               |                                          | Pantry       |
+| olive oil                 | `infinity` |               |                                          | Pantry       |
+| vegetable oil             | `infinity` | 200529        | Clearspring Sunflower 2l                 | Pantry       |
+| coconut oil               | `infinity` |               |                                          | Pantry       |
+| toasted sesame oil        | `infinity` |               |                                          | Pantry       |
+| nutritional yeast         | `infinity` |               |                                          | Pantry       |
+| tempeh                    | `infinity` |               |                                          | Pantry       |
+| plant milk                | `infinity` |               | unsweetened soya drink, long-life        | Pantry       |
+| dark chocolate            | `infinity` |               |                                          | Pantry       |
+| cashews                   | `infinity` |               |                                          | Nuts & Seeds |
+| walnuts                   | `infinity` |               |                                          | Nuts & Seeds |
+| flaked almonds            | `infinity` |               |                                          | Nuts & Seeds |
+| spaghetti                 | `infinity` |               | wholewheat                               | Pasta        |
+| pasta                     | `infinity` |               | wholewheat penne or tagliatelle          | Pasta        |
+| macaroni                  | `infinity` |               | wholewheat                               | Pasta        |
+| wholewheat lasagne sheets | `infinity` |               |                                          | Pasta        |
+| chilli powder             | `infinity` | 9210          | Chilli Powder 6x25g                      | Spices       |
+| ground cumin              | `infinity` | 9216          | Ground Cumin 6x25g                       | Spices       |
+| cumin seeds               | `infinity` |               |                                          | Spices       |
+| smoked paprika            | `infinity` |               |                                          | Spices       |
+| ground coriander          | `infinity` |               |                                          | Spices       |
+| ground cinnamon           | `infinity` |               |                                          | Spices       |
+| ground allspice           | `infinity` |               |                                          | Spices       |
+| ground nutmeg             | `infinity` |               |                                          | Spices       |
+| ground cardamom           | `infinity` |               |                                          | Spices       |
+| turmeric                  | `infinity` |               |                                          | Spices       |
+| sumac                     | `infinity` |               |                                          | Spices       |
+| chilli flakes             | `infinity` |               |                                          | Spices       |
+| garlic powder             | `infinity` |               |                                          | Spices       |
+| onion powder              | `infinity` |               |                                          | Spices       |
+| dried oregano             | `infinity` |               |                                          | Spices       |
+| dried thyme               | `infinity` |               |                                          | Spices       |
+| dried basil               | `infinity` |               |                                          | Spices       |
+| bay leaves                | `infinity` |               |                                          | Spices       |
+| mustard seeds             | `infinity` |               |                                          | Spices       |
+| fenugreek seeds           | `infinity` |               |                                          | Spices       |
+| frozen vegan gyoza        | `ocado`    |               |                                          | Frozen       |
+| bao buns                  | `ocado`    |               | frozen                                   | Frozen       |
+| firm tofu                 | `ocado`    |               |                                          | Chilled      |
+| vegan butter              | `ocado`    |               |                                          | Chilled      |
+| vegan cheddar             | `ocado`    |               |                                          | Chilled      |
+| vegan parmesan            | `ocado`    |               |                                          | Chilled      |
+| corn tortillas            | `ocado`    |               |                                          | Bakery       |
+| panko breadcrumbs         | `ocado`    |               |                                          | Pantry       |
+| cornflour                 | `ocado`    |               |                                          | Pantry       |
+| bicarbonate of soda       | `ocado`    |               |                                          | Pantry       |
+| wholegrain mustard        | `ocado`    |               |                                          | Pantry       |
+| chilli garlic paste       | `ocado`    |               |                                          | Pantry       |
+| pine nuts                 | `ocado`    |               |                                          | Nuts & Seeds |
+| dried rose petals         | `ocado`    |               |                                          | Spices       |
+| asafoetida                | `ocado`    |               |                                          | Spices       |
+| white wine                | `ocado`    |               |                                          | Drinks       |
+| red wine                  | `ocado`    |               |                                          | Drinks       |
+| onion                     | `fresh`    |               |                                          | Produce      |
+| red onion                 | `fresh`    |               |                                          | Produce      |
+| garlic                    | `fresh`    |               |                                          | Produce      |
+| fresh ginger              | `fresh`    |               |                                          | Produce      |
+| carrot                    | `fresh`    |               |                                          | Produce      |
+| potatoes                  | `fresh`    |               |                                          | Produce      |
+| parsnip                   | `fresh`    |               |                                          | Produce      |
+| leek                      | `fresh`    |               |                                          | Produce      |
+| fennel                    | `fresh`    |               |                                          | Produce      |
+| aubergine                 | `fresh`    |               |                                          | Produce      |
+| courgette                 | `fresh`    |               |                                          | Produce      |
+| cauliflower               | `fresh`    |               |                                          | Produce      |
+| brussels sprouts          | `fresh`    |               |                                          | Produce      |
+| red cabbage               | `fresh`    |               |                                          | Produce      |
+| mushrooms                 | `fresh`    |               |                                          | Produce      |
+| red pepper                | `fresh`    |               |                                          | Produce      |
+| tomato                    | `fresh`    |               |                                          | Produce      |
+| cucumber                  | `fresh`    |               |                                          | Produce      |
+| avocado                   | `fresh`    |               |                                          | Produce      |
+| green chilli              | `fresh`    |               |                                          | Produce      |
+| spring onion              | `fresh`    |               |                                          | Produce      |
+| lemon                     | `fresh`    |               |                                          | Produce      |
+| lime                      | `fresh`    |               |                                          | Produce      |
+| pomegranate               | `fresh`    |               |                                          | Produce      |
+| fresh coriander           | `fresh`    |               |                                          | Produce      |
+| fresh parsley             | `fresh`    |               |                                          | Produce      |
+| fresh rosemary            | `fresh`    |               |                                          | Produce      |
+| vegan crème fraîche       | `fresh`    |               |                                          | Chilled      |
+| vegan sour cream          | `fresh`    |               |                                          | Chilled      |
+| milk                      | `fresh`    |               | dairy milk, for our daughter             | Dairy & Eggs |
+| eggs                      | `fresh`    |               | for our daughter                         | Dairy & Eggs |
 
 Onions and garlic keep for a few weeks, so you could move them to `ocado` if
 you'd rather get them in the monthly order.
@@ -57,3 +142,4 @@ instead of adding them to an order. Track how much you have in `stock.md`.
 
 - salt
 - black pepper
+- water

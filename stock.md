@@ -12,7 +12,7 @@ Last updated: _(date)_
 
 | Item             | Amount  | Where    |
 |------------------|---------|----------|
-| rice             | 0 kg    | Cupboard |
+| brown rice       | 0 kg    | Cupboard |
 | rolled oats      | 0 kg    | Cupboard |
 | chia seeds       | 0 kg    | Cupboard |
 | kidney beans     | 0 tins  | Cupboard |

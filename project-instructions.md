@@ -33,9 +33,13 @@ plan to cook, you work out:
   ground nuts) and no rice milk for her.
 - **Saturday guests:** we want to cook for 2–3 friends at least once a week
   on Saturday, so plan that meal for 4–5 adults plus our daughter.
-- **Leftovers and batch cooking:** we'd rather not cook every night. Prefer
-  bulk meals that cover more than one dinner, and plan for healthy leftovers
-  for our lunches. Batch cooking is a preference, not a requirement.
+- **Cooking nights:** we're happy to cook 4 nights a week (including the
+  Saturday guest meal). Cover the other 3 dinners with leftovers or freezer
+  portions.
+- **Lunches:** plan leftovers for lunch for all three of us, every day.
+- **Leftovers and batch cooking:** prefer bulk meals that cover more than
+  one dinner plus lunches. Batch cooking is a preference, not a requirement.
+- **Portions:** count our daughter as about half an adult portion.
 
 ## Knowledge files
 
@@ -57,11 +61,11 @@ product codes or prices. I can't give you Ocado prices, so don't guess them.
 
 ```
 Month: November 2026
-Week 1: Beef Chili x1, Chicken Stir Fry x2, Overnight Oats x5
-Week 2: Chicken Stir Fry x1, Overnight Oats x5
-Week 3: Beef Chili (8 servings), Overnight Oats x5
-Week 4: Chicken Stir Fry x2, Overnight Oats x5
-Stock changes: used up the honey, 2 tins tomatoes left
+Week 1: Lentil Bolognese, Tarka Dal x2, Smoky Lentil Tacos (10 servings), Tofu Scramble x3
+Week 2: Burnt Aubergine Veggie Chilli (8 servings), Creamy Leek Pasta x2, Lasagne
+Week 3: Aubergine & Lentil Stew (8 servings), Dumpling Soup, Bao Buns (8 servings)
+Week 4: Lentil Bolognese, Mac and Cheese, Cauliflower Shawarma, Roast Potatoes, Brussels Sprouts
+Stock changes: used up the tahini, 2 tins tomatoes left
 ```
 
 - `xN` means cook the recipe N times; `(N servings)` means scale to N servings.
@@ -95,8 +99,8 @@ Stock changes: used up the honey, 2 tins tomatoes left
    - If a minimum order is set and the total is below it, say how much short
      it is and suggest staples from stock.md that are running low.
 5. **Ocado monthly order** (items marked `ocado`): the month's total, rounded
-   to normal shop pack sizes. For meat and fish, add how to portion it for
-   freezing (e.g. "freeze in 4 × 600 g bags, one per stir fry").
+   to normal shop pack sizes. For anything frozen or that needs freezing,
+   add a storage note (e.g. "2 bags of frozen gyoza, one per soup").
 6. **Weekly fresh list** (items marked `fresh`): one list per week with only
    what that week's recipes need, grouped by aisle. Add a line if an item from
    one week could be bought once and used in the next (e.g. a bag of onions).

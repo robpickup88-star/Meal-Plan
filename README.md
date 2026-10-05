@@ -54,11 +54,11 @@ sync after you change them.
 
    ```
    Month: November 2026
-   Week 1: Beef Chili x1, Chicken Stir Fry x2, Overnight Oats x5
-   Week 2: Chicken Stir Fry x1, Overnight Oats x5
-   Week 3: Beef Chili (8 servings), Overnight Oats x5
-   Week 4: Chicken Stir Fry x2, Overnight Oats x5
-   Stock changes: used up the honey, 2 tins tomatoes left
+   Week 1: Lentil Bolognese, Tarka Dal x2, Smoky Lentil Tacos (10 servings), Tofu Scramble x3
+   Week 2: Burnt Aubergine Veggie Chilli (8 servings), Creamy Leek Pasta x2, Lasagne
+   Week 3: Aubergine & Lentil Stew (8 servings), Dumpling Soup, Bao Buns (8 servings)
+   Week 4: Lentil Bolognese, Mac and Cheese, Cauliflower Shawarma, Roast Potatoes, Brussels Sprouts
+   Stock changes: used up the tahini, 2 tins tomatoes left
    ```
 
    `x2` means cook it twice. `(8 servings)` scales the recipe to 8 servings.
