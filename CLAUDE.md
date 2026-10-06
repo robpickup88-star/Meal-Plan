@@ -33,6 +33,12 @@ or "paste back into …", edit the file in the repo instead.
   label and update `stock.md` with the cupboard and freezer amounts from the
   plan. Fill in "Last updated".
 - **Stock or freezer changes** we mention: update `stock.md`.
+- **"Stock take done"** (or answers or photos for `stock-take.md`): rewrite
+  `stock.md` from it. Convert rough amounts to units (a 500 g bag half full →
+  0.25 kg, "low" → about a quarter of a normal pack) and say which guesses you
+  made. Put meals in the freezer table. Then re-check the current month's plan
+  against the new stock, update its orders, and clear the answers out of
+  `stock-take.md` so it's ready for next time.
 - **New recipe:** add it to `recipes.md` in the standard format and give each
   new ingredient a row in `ingredient-sources.md`, with an Infinity code for
   dry goods, chosen from the price list.
