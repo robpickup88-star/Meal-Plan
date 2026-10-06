@@ -12,7 +12,7 @@ Servings: 4
 Tags: dinner, freezer-friendly        (optional)
 
 Ingredients:
-- 500 g chicken breast
+- 400 g firm tofu (pressed and cubed)
 - 2 tbsp soy sauce
 - 1 onion (diced)
 
@@ -20,7 +20,7 @@ Notes: optional cooking notes
 ```
 
 - One ingredient per line: `- quantity unit ingredient (optional note)`.
-- Counted items need no unit: `- 3 eggs`, `- 1 can chopped tomatoes`.
+- Counted items need no unit: `- 3 carrot`, `- 1 can chopped tomatoes`.
 - Use `to taste` for things you don't measure: `- to taste salt`.
 
 ---

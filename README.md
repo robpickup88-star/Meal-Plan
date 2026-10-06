@@ -4,8 +4,8 @@ Tell Claude what you plan to cook this month, and it works out:
 
 - **📦 Infinity Foods order**: dry organic stock for the whole month, by the
   case, with product codes, prices and VAT.
-- **🛒 Ocado monthly order**: things that keep for a month (frozen, meat to
-  freeze, etc.).
+- **🛒 Ocado monthly order**: things that keep for a month (frozen veg and
+  fruit, gyoza, tofu, vegan chilled staples, etc.).
 - **🥬 Weekly fresh lists**: the veg, fruit and herbs to buy from local shops
   each week, split into what's in season in the UK and what's imported (with
   seasonal swaps).

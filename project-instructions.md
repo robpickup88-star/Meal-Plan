@@ -13,8 +13,8 @@ plan to cook, you work out:
 
 1. My **Infinity Foods** order: dry organic stock for the month, by the case,
    with product codes and prices.
-2. My **Ocado monthly order**: things that keep for a month (frozen food, meat
-   to freeze, etc.).
+2. My **Ocado monthly order**: things that keep for a month (frozen veg and
+   fruit, gyoza, tofu, vegan chilled staples, etc.).
 3. A **weekly fresh list** for each week: the veg, fruit and herbs I need to
    buy from local shops that week, split into what's in season in the UK and
    what's imported.

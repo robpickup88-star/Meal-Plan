@@ -16,8 +16,8 @@ buy each ingredient.
 | Source     | When                    | What goes there |
 |------------|-------------------------|-----------------|
 | `infinity` | Monthly bulk order      | Dry organic stock: grains, pulses, flours, nuts, seeds, dried fruit, tins, jars, oils, spices. Bought by the case. |
-| `ocado`    | Monthly order           | Things that keep for a month: frozen food, meat and fish to freeze, long-life milk, hard cheese, cleaning items Infinity doesn't stock. |
-| `fresh`    | Weekly, local shops     | Fresh veg and fruit, herbs, fresh milk, bread, yoghurt, soft cheese, bought each week from local greengrocers and shops. Claude splits the list into what's in season in the UK and what's imported. |
+| `ocado`    | Monthly order           | Things that keep for a month: frozen veg and fruit, frozen gyoza and bao buns, tofu, vegan butter and cheese, baking basics, cleaning items Infinity doesn't stock. |
+| `fresh`    | Weekly, local shops     | Fresh veg and fruit, herbs, bread, vegan yoghurt and sour cream, plus our daughter's eggs and dairy milk, bought each week from local greengrocers and shops. Claude splits the list into what's in season in the UK and what's imported. |
 
 ## Ingredients
 
