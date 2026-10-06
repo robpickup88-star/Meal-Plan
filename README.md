@@ -14,14 +14,41 @@ Tell Claude what you plan to cook this month, and it works out:
 - **📋 Updated stock list**: what you'll have left over, so it isn't bought
   twice next month.
 
-It runs inside a [Claude Project](https://claude.ai/projects), which holds your
-recipes, your Infinity price list and the rules for where you buy each
-ingredient.
+There are two ways to run it:
+
+- **Claude Code (recommended for monthly planning):** open a Claude Code
+  session on this repo at [claude.ai/code](https://claude.ai/code) or in the
+  Claude app. It reads `CLAUDE.md` automatically, so it already knows the
+  setup. It saves the plan, stock, recipes and sources back to GitHub for
+  you.
+- **Claude Project:** good for quick questions. It can read the files but
+  can't save changes, so you copy anything new back into the repo yourself.
+
+## Using Claude Code
+
+Start a session on this repo and say what you want:
+
+- *"Plan November"*: Claude picks recipes using your weekly rhythm and the
+  season, or you can give it a list (see the format under
+  [Monthly routine](#monthly-routine)). It writes `plans/2026-11.md` as a
+  draft and summarises the Infinity total and anything to confirm.
+- *"Looks good, order placed"*: it marks the plan final and updates
+  `stock.md`.
+- *"We've used up the tahini and have 2 bags of chilli in the freezer"*:
+  updates `stock.md`.
+- *"Add this recipe: …"*: adds it to `recipes.md`, with sources and Infinity
+  codes for any new ingredients.
+- *"New price list attached"*: rebuilds `infinity-foods-prices.csv` and
+  checks your product codes still exist.
+
+Every change is committed and pushed, so the next session (and the Project,
+after a sync) sees it.
 
 ## Files
 
 | File | What it's for | Where it goes |
 |------|---------------|---------------|
+| `CLAUDE.md` | Tells Claude Code sessions to follow `project-instructions.md` and save changes to the repo | Repo only |
 | `project-instructions.md` | Tells Claude how to build the orders | Project → **Custom instructions** |
 | `recipes.md` | Your recipe book | Project → **Knowledge** |
 | `ingredient-sources.md` | Settings, plus Infinity / Ocado / fresh for each ingredient and the Infinity product codes you buy | Project → **Knowledge** |
@@ -31,7 +58,7 @@ ingredient.
 | `price-lists/` | The original Infinity price lists | Keep in the repo only |
 | `tools/slim_price_list.py` | Makes `infinity-foods-prices.csv` from a new price list | Run on your computer |
 
-## Setup
+## Claude Project setup
 
 1. Go to **claude.ai → Projects → Create project** and name it something like
    "Meal Plan".
@@ -54,7 +81,7 @@ sync after you change them.
 
 ## Monthly routine
 
-1. Start a new chat in the Project and send your plan:
+1. Start a Claude Code session (or a new chat in the Project) and send your plan:
 
    ```
    Month: November 2026
@@ -70,8 +97,9 @@ sync after you change them.
 
 2. Place the **Infinity Foods** order using the codes and case numbers, and the
    **Ocado** monthly order.
-3. Copy the **Updated stock.md** section into `stock.md` and re-upload or
-   resync it.
+3. In Claude Code, say the order's placed and `stock.md` is updated for you.
+   In a Project chat, copy the **Updated stock.md** section into `stock.md`
+   and re-upload or resync it.
 4. Each week, use that week's **Fresh** list at the shop, or ask *"Top-up
    order for week 2"* to get it as an Ocado basket.
 
